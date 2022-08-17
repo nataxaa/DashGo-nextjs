@@ -17,10 +17,7 @@ export const theme = extendTheme({
         }
    },
    
-   fonts:{
-     heading:'Roboto Slab',
-     body: 'Roboto Slab'
-   },
+   
 
     styles:{
         global:{
